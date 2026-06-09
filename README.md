@@ -3,11 +3,17 @@
 I'm a multilingual professional building a carrer in Cybersecurity, combining a background in education, international communication, and problem-solving with a growing passion for Information Security.
 
 Currently, I'm focused on developing practical skills in:
+
 🌐 Networking
+
 🐧 Linux
+
 ☁️ Cloud Security
+
 🐍 Python
+
 🛡️ Security Operations (SOC)
+
 📊 Risk & Compliance (GRC)
 
 I enjoy learning through hands-on labs, projects, and continuous study while building a strong foundation in cybersecurity.
